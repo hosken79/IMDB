@@ -1,0 +1,12 @@
+C:\Users\hoske\source\repos\IMDB_download\bin\Debug\IMDB_download.exe.config
+C:\Users\hoske\source\repos\IMDB_download\bin\Debug\IMDB_download.exe
+C:\Users\hoske\source\repos\IMDB_download\bin\Debug\IMDB_download.pdb
+C:\Users\hoske\source\repos\IMDB_download\bin\Debug\IMDB_download.xml
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.Form1.resources
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.Resources.resources
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.vbproj.GenerateResource.cache
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.vbproj.CoreCompileInputs.cache
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.exe
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.xml
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.pdb
+C:\Users\hoske\source\repos\IMDB_download\obj\Debug\IMDB_download.vbprojAssemblyReference.cache
